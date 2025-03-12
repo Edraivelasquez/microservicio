@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "productos",
   "version": "1.0.0",
   "description": "",
@@ -21,5 +22,9 @@
     "@types/node": "^22.13.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
+=======
+  "dependencies": {
+    "axios": "^1.8.1"
+>>>>>>> e2606cb610f62044056fdc2495e91d96a0dfdc42
   }
 }
